@@ -1,0 +1,9 @@
+import sahil.sahil1;
+class sahil2
+{
+	public static void main(String args[])
+	{
+	sahil1 obj=new sahil1();
+	obj.dis();
+	}
+}
